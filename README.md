@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shawn Iqbal - Code Alchemist</h1>
+<h1 align="center">Hi 👋, I'm Asad Burney - Code Alchemist</h1>
 <h3 align="center">Bringing Full-Stack Magic to Life with Shawn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SteveIrwin&label=Profile%20views&color=0e75b6&style=flat" alt="SteveIrwin" /> </p>
