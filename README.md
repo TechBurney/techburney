@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Asad Burney - Code Alchemist</h1>
 <h3 align="center">Bringing Full-Stack Magic to Life with Burney</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SteveIrwin&label=Profile%20views&color=0e75b6&style=flat" alt="Asad Burney" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AsadBurney&label=Profile%20views&color=0e75b6&style=flat" alt="Asad Burney" /> </p>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SteveIrwin" alt="SteveIrwin" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AsadBurney" alt="Asad Burney" />
   </a> 
 </p>
 
-- 🔭 I’m currently working as **Full Stack Engineer** building web and AI/ML applications.
-- 🌱 I’m currently learning **advanced cloud technologies like AWS and Azure to deploy and scale apps efficiently.**
-- 👀 I’m interested in **AI, Machine Learning, and Fun Science projects.**
-- 💬 Ask me about **best practices for building secure web applications with Python, Django, React, MERN, and Ruby on Rails.**
+- 🔭 I’m currently working as a **Full Stack Engineer**, building web and AI/ML applications to scale businesses and improve user experience.
+- 🌱 I’m diving deeper into **advanced cloud technologies** like **AWS** and **Azure** to deploy, scale, and optimize apps efficiently.
+- 👀 I’m passionate about **AI**, **Machine Learning**, and love exploring **fun science** projects that push the boundaries of innovation.
+- 💬 Ask me about **best practices for building secure web applications**, using **Python, Django, React, MERN**, and **Ruby on Rails**.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -24,10 +24,6 @@
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SteveIrwin&show_icons=true&locale=en&layout=compact" alt="SteveIrwin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SteveIrwin&show_icons=true&locale=en" alt="SteveIrwin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SteveIrwin&" alt="SteveIrwin" /></p>
