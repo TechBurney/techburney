@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asad Burney - Code Alchemist</h1>
+<h1 align="center">Hi 👋, I'm Asad Burney </h1>
 <h3 align="center">Bringing Full-Stack Magic to Life with Burney</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AsadBurney&label=Profile%20views&color=0e75b6&style=flat" alt="Asad Burney" /> </p>
